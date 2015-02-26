@@ -91,7 +91,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\BaseController.vb" />
-    <Compile Include="Controllers\JsonpResult.vb" />
     <Compile Include="Controllers\ViewController.vb" />
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
