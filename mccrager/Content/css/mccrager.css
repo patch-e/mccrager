@@ -1,0 +1,78 @@
+body { padding: 60px 0 40px 0; }
+.brand {
+	color: #fff !important;
+	text-shadow: 1px 3px 5px rgba(0, 0, 0, 0.5) !important;
+}
+.appicon {
+	margin-bottom: 10px;
+	
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+            
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.github-badge {
+	border: 0;
+	height: 110px;
+	overflow: hidden;
+	width: 200px;	
+}
+.thumbnail {
+	border: none; 
+	
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+.thumbnail > img {
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);	
+}
+.hide-screen { display: none; }
+.hide-print { display: block; }
+.no-margin-top { margin-top: 0; }
+.center-text { text-align: center; }
+.center-block {
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto; 
+}
+
+@media (max-width: 979px) {
+	.navbar .nav > li > .dropdown-menu:before,
+	.navbar .nav > li > .dropdown-menu:after {
+		border: none;
+	}
+}
+
+@media print {
+	body { padding: 0 20px; }
+	.container { width: 100%; }
+	.hide-screen { display: block; }
+	.navbar, 
+	.hide-print { display: none; }	
+	.page-header p { margin: 15px 0 0 0; }
+	
+	/* resume page specific */
+	.resume { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+	.resume hr { border: none; }
+	.resume header { margin: 0; }
+	.resume section { font-size: 12px; }
+	.resume h1 { font-size: 30px; }
+	.resume h2 { font-size: 24px; }
+	.resume a { color: inherit; }	
+	.resume footer { display: none; }
+	.resume .label {
+		background: none;
+		color: inherit; 
+		text-shadow: none; 
+	}
+	.resume .skills > div > div {	
+		float: left;
+		margin: 0;
+		width: 50%;
+	}
+}
