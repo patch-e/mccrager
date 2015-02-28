@@ -6,7 +6,7 @@
     <title>mccrager / Projects</title>
     <%Html.RenderPartial("Header")%>
     
-    <meta name="description" content="Patrick Crager's project portfolio. Everything from web sites, web applications, mobile web, PhoneGap-based mobile projects, and native Android & iOS projects are highlighted here.">
+    <meta name="description" content="Patrick Crager's project portfolio. Web sites, web applications, mobile web, hybrid mobile, and native mobile app projects he has worked on are highlighted here.">
   </head>
   
   <body>
@@ -30,6 +30,26 @@
 
       <section>
         <h2>
+          Beers @ Al's
+          <small>current</small>
+          <a class="btn btn-mini btn-info" href="/beer/als">View</a>
+          <a class="btn btn-mini btn-info" href="https://github.com/patch-e/beers-at-als">Source at GitHub</a>
+        </h2>
+        <p><strong>Beers @ Al's</strong> is the result of an idea where <a href="http://alsofhampden.com">Al's website</a> wasn't 
+        mobile-friendly at the time and I was constantly not wanting to leave my table to see the tap list that isn't easily readable from every 
+        seat in the building. Al's original website left much to be desired when accessing from a mobile device, so I saw an opportunity to make 
+        something useful. Today, Al's website is much improved and mobile-friendly! However, my app provides some additional features not available 
+        there. Things like searching/filtering, Untappd integration, additional views of the tap list, and speed.
+        </p>
+        <p>The front-end of this website is an AngularJS app utilizing Bootstrap and jQuery. The back-end, that provides live up-to-date data 
+        from Al's website, is an Express node.js app utilizing a MongoDB database. 
+        The code is open source and available on <a href="https://github.com/patch-e/beers-at-als">github</a>.</p>
+      </section>
+
+      <hr>
+
+      <section>
+        <h2>
           Passwird Deals
           <small>current</small>
           <a class="btn btn-mini btn-primary" href="http://appstore.com/PasswirdDeals">Download for iOS</a>
@@ -40,8 +60,7 @@
         It is available as a universal app on the <a href="http://appstore.com/PasswirdDeals">iOS App Store</a>, 
         it runs optimized for both the iPhone and iPad. It consumes a web service API that I wrote and designed that 
         generates JSON data objects in an application built on the ASP.NET MVC framework. My API utilizes
-        <a href="http://json.codeplex.com">Json.NET</a> to consume the official passwird.com API that I provided 
-        input for during creation.</p>
+        Json.NET to consume the official passwird.com API that I provided input for during creation.</p>
         <p>The source code for both the <a href="https://github.com/patch-e/Passwird-Deals">iOS app</a> and 
         <a href="https://github.com/patch-e/Passwird-Deals-api">API</a> is open source. I also wrote a notifications
         system that is a multi-threaded polling app to send notifications to all subscribed users when a new deal
@@ -70,6 +89,8 @@
         </ul>
       </section>
 
+      <hr>
+
       <section>
         <h2>
           Latest Chatty
@@ -79,10 +100,9 @@
         </h2>
         <p><strong>Latest Chatty</strong> is a community portal app for members of 
         <a href="http://shacknews.com">Shacknews.com</a>, a website dedicated to video game news coverage. 
-        I wasn't a part of the initial creation of this app, but I have stepping to pick up a 
-        bunch of maintenance and enhancement work that has been needed. I have committed bug fixes, enhancements, and 
-        implemented a total visual overhaul to the app. I worked with the original developer to transfer ownership
-        of the app on the App Store to myself.</p>
+        I wasn't a part of the initial creation of this app, but I stepped in to pick up a bunch of maintenance and 
+        enhancement work that has been needed. I have committed bug fixes, enhancements, and implemented a total visual 
+        overhaul to the app. I worked with the original developer to transfer ownership of the app on the App Store to myself.</p>
         <ul class="thumbnails">
           <li class="span3">
             <div class="thumbnail">

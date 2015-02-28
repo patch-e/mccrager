@@ -23,7 +23,7 @@
         
             <div class="span4">
                 <h2>View My Projects</h2>
-                <p>Everything from web sites, web applications, mobile web, PhoneGap-based mobile projects, and native Android &amp; iOS projects are highlighted here.</p>
+                <p>Web sites, web applications, mobile web, hybrid mobile, and native mobile app projects I have worked on are highlighted here.</p>
                 <p><a class="btn btn-primary" href="/Projects">Go &raquo;</a></p>
             </div>
         
@@ -40,23 +40,23 @@
             <div class="span12">
                 <div class="row">
                     <div class="span2">
-                        <img src="/Content/img/appicon-Beers@Als.png" class="img-rounded appicon center-block" alt="Beers @ Al's app icon">
+                        <a href="/beer/als/"><img src="/Content/img/appicon-Beers@Als.png" class="img-rounded appicon center-block" alt="Beers @ Al's app icon"></a>
                     </div>
                     <div class="span10">
                         <h2 class="no-margin-top">Beers @ Al's</h2>
-                        <p>A mobile friendly beer list of what's currently on tap at <a href="http://www.alsofhampden.com/" target="_blank">Al's of Hampden / Pizza Boy Brewing Co.</a>! 
-                        If you have never had the pleasure of visiting Al's of Hampden, make it a priority and use my <strong>Beer's @ Al's</strong> app while you are there :)
+                        <p>Providing a mobile-friendly list and Untappd integration to beers on tap at <a href="http://www.alsofhampden.com/" target="_blank">Al's of Hampden / Pizza Boy Brewing Co.</a>!
+                        If you haven't had the pleasure of visiting Al's, make it a priority and be sure to use <strong>Beer's @ Al's</strong> while you are there :)</p>
                         <p><a class="btn btn-primary" href="/beer/als/">Go »</a></p>
                     </div>
                 </div>
             </div>
 
-            <hr>
+            <div class="span12"><hr></div>
 
             <div class="span12">
                 <div class="row">
                     <div class="span2">
-                        <img src="/Content/img/appicon-LatestChatty.png" class="img-rounded appicon center-block" alt="Latest Chatty app icon">
+                        <a href="/LatestChatty"><img src="/Content/img/appicon-LatestChatty.png" class="img-rounded appicon center-block" alt="Latest Chatty app icon"></a>
                     </div>
                     <div class="span10">
                         <h2 class="no-margin-top">Latest Chatty for iOS</h2>
@@ -68,12 +68,12 @@
                 </div>
             </div>
 
-            <hr>
+            <div class="span12"><hr></div>
 
             <div class="span12">
                 <div class="row">
                     <div class="span2">
-                        <img src="/Content/img/appicon-PasswirdDeals.png" class="img-rounded appicon center-block" alt="Passwird Deals app icon">
+                        <a href="/PasswirdDeals"><img src="/Content/img/appicon-PasswirdDeals.png" class="img-rounded appicon center-block" alt="Passwird Deals app icon"></a>
                     </div>
                     <div class="span10">
                         <h2 class="no-margin-top">Passwird Deals for iOS</h2>
