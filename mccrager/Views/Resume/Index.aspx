@@ -30,17 +30,19 @@
         <div class="row">
           <div class="span6">
             <ul>
-              <li><strong>Application and Web Servers:</strong> Apache, IIS, node.js, SharePoint, SQL Server Reporting Services</li>
-              <li><strong>Frameworks:</strong> ASP.NET &amp; MVC, Cocoa Touch, Dojo Toolkit, JavaServer Faces, jQuery &amp; jQuery Mobile, PhoneGap, Twitter Bootstrap</li>
-              <li><strong>Web Technologies:</strong> AJAX, AngularJS, CSS, Google Maps API, HTML, JavaScript, JSON, Responsive Web Design, REST, XML</li>
-              <li><strong>IDEs:</strong> Eclipse, SQL Server Management Studio, Visual Studio, Xcode</li>
+              <li><strong>Application and Web Servers:</strong> Apache, Internet Information Services, node.js, SharePoint, SQL Server Reporting Services</li>
+              <li><strong>Frameworks:</strong> AngularJS, Android SDK, ASP.NET &amp; MVC, Cocoa Touch, Dojo Toolkit, JavaServer Faces, jQuery &amp; jQuery Mobile, PhoneGap, RichFaces, Twitter Bootstrap</li>
+              <li><strong>Web Technologies:</strong> AJAX, CSS, Express, Google Maps API, HTML, JavaScript, JSON, Responsive Web Design, REST, XML</li>
+              <li><strong>IDEs:</strong> Eclipse, Oracle SQL Developer, SQL Server Management Studio, Visual Studio, Xcode</li>
             </ul>
           </div>
           <div class="span6">
-            <uL>
+            <ul>
               <li><strong>Languages:</strong> C#, HTML, Java, JavaScript, Objective-C, T-SQL, VB.NET</li>
               <li><strong>Source Control:</strong> CA SCM, git, SVN, Team Foundation Server, Visual SourceSafe</li>
-              <li><strong>Databases:</strong> MySQL, SQL Server</li>
+              <li><strong>Unit Testing:</strong> Dojo Objective Harness, JUnit</li>
+              <li><strong>Development Operations:</strong> Ant, gulp, IBM UrbanCode Build &amp; Deploy</li>
+              <li><strong>Databases:</strong> MongoDB, MySQL, Oracle, SQL Server</li>
               <li><strong>Design Tools:</strong> Illustrator, InDesign, Photoshop, Quark</li>
               <li><strong>SEO &amp; Analytics:</strong> Crashlytics, Google Analytics, Google Webmaster Tools, Flurry, TestFlight, Unica NetInsight</li>              
               <li><strong>Operating Systems:</strong> Android, iOS, OS X, Windows</li>
@@ -56,14 +58,16 @@
             <p><span class="label">10/13 - Present</span></p>
           </div>
           <div class="span6">
-            <p><strong>Highmark</strong> Harrisburg, PA<br>
+            <p><strong>HM Health Solutions (Highmark)</strong> Harrisburg, PA<br>
             <strong><em>Senior Application Developer</em></strong></p>
           </div>
         </div>
         <div class="row">
           <div class="span12">
             <ul>
-              <li>Specializing in mobile application (native and HTML PhoneGap-based) and front-end web development.</li>
+              <li>Specializing in mobile application and front-end web development.</li>
+              <li>Consulting on various projects and initiatives at any given time.</li>
+              <li>Mentoring junior developers.</li>
             </ul>
           </div>
         </div>
@@ -76,7 +80,7 @@
           </div>
           <div class="span6">
             <p><strong>Celerity</strong> Harrisburg, PA<br>
-            <strong><em>Mobile/Web Development & Technologies Consultant for United Concordia at Highmark</em></strong></p>
+            <strong><em>Mobile/Web Development & Technologies Consultant</em></strong></p>
           </div>
         </div>
         <div class="row">
@@ -206,6 +210,16 @@
 
       <section>
         <h2>Awards</h2>
+        <div class="row">
+          <div class="span6 pull-right">
+            <p><span class="label">11/14</span></p>
+          </div>
+          <div class="span6">
+            <p>The Diamond Award Winner<br>
+            <em>HM Health Solutions (Highmark)</em></p>
+          </div>
+        </div>
+
         <div class="row">
           <div class="span6 pull-right">
             <p><span class="label">12/11</span></p>
