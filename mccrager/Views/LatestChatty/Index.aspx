@@ -22,23 +22,25 @@
               <a href="http://appstore.com/LatestChatty"><img src="/Content/img/appicon-LatestChatty.png" class="img-rounded appicon" alt="Latest Chatty app icon"></a>
           </div>
           <div class="span10">
-            <p><strong>Latest Chatty</strong> is a community portal application for members of <a href="http://shacknews.com">Shacknews.com</a>, a website dedicated to video game news coverage. 
-            Shacknews.com has in-depth reviews, interviews, and breaking news on every major platform and developer. 
+            <p><strong>Latest Chatty</strong> is a community portal application for members of <a href="http://shacknews.com">Shacknews.com</a>, a website dedicated to video game news coverage.
+            Shacknews.com has in-depth reviews, interviews, and breaking news on every major platform and developer.
             This app allows perusal of the website's stories, chatting in the community, and sending messages to other shackers.
             Participation requires a valid account username and password.</p>
 
-            <p>App development has always been open source with community members pitching in to help make the app what it is today. 
+            <p>App development has always been open source with community members pitching in to help make the app what it is today.
             I have inherited ownership of the app on the App Store from fellow shacker and original app developer SqueegyTBS!</p>
-            
+
             <p>Other awesome shackers who have contributed to the app over the years:</p>
             <ul>
                 <li>boarder2</li>
+                <li>bradsh</li>
                 <li>electroly</li>
                 <li>'flip'</li>
                 <li>multisync</li>
                 <li>Patch-e</li>
                 <li>SqueegyTBS</li>
                 <li>stonedonkey</li>
+                <li>ThomW</li>
                 <li>Yanks</li>
             </ul>
 

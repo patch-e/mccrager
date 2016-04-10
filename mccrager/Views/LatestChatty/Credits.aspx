@@ -34,14 +34,16 @@
         </div>
         <div class="row">
             <div class="span12">
-                <ul class="unstyled">
+                <ul class="unstyled text-center">
                     <li>boarder2</li>
+                    <li>bradsh</li>
                     <li>electroly</li>
                     <li>'flip'</li>
                     <li>multisync</li>
                     <li>Patch-e</li>
                     <li>SqueegyTBS</li>
                     <li>stonedonkey</li>
+                    <li>ThomW</li>
                     <li>Yanks</li>
                 </ul>
                 <p class="text-center"><small>If your name isn't on the list, SM <span class="name">virus</span> to get added!</small></p>
