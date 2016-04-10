@@ -1,4 +1,4 @@
-﻿<%@ Page Language="VB" Inherits="System.Web.Mvc.ViewPage" %>
+<%@ Page Language="VB" Inherits="System.Web.Mvc.ViewPage" %>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -22,7 +22,7 @@
         a, li, .name { color: #F5E49D; }
         a:hover, a:active, a:focus {
         	color: #F5E49D;
-        	font-weight: normal; 
+        	font-weight: normal;
             text-decoration: none;
         }
         .accordion-group { border: none; }
@@ -32,7 +32,7 @@
         }
         .caret {
         	border-top-color: #F5E49D;
-        	vertical-align: middle; 
+        	vertical-align: middle;
         }
     </style>
   </head>
@@ -55,25 +55,25 @@
                         </div>
                         <div id="license1" class="accordion-body collapse">
                             <div class="accordion-inner">
-                                <p>Copyright (c) 2011 Gowalla (http://gowalla.com/)</p>
+                              <p>Copyright (c) 2011–2016 Alamofire Software Foundation (http://alamofire.org/)</p>
 
-                                <p>Permission is hereby granted, free of charge, to any person obtaining a copy
-                                of this software and associated documentation files (the "Software"), to deal
-                                in the Software without restriction, including without limitation the rights
-                                to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-                                copies of the Software, and to permit persons to whom the Software is
-                                furnished to do so, subject to the following conditions:</p>
+                              <p>Permission is hereby granted, free of charge, to any person obtaining a copy
+                              of this software and associated documentation files (the "Software"), to deal
+                              in the Software without restriction, including without limitation the rights
+                              to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                              copies of the Software, and to permit persons to whom the Software is
+                              furnished to do so, subject to the following conditions:</p>
 
-                                <p>The above copyright notice and this permission notice shall be included in
-                                all copies or substantial portions of the Software.</p>
+                              <p>The above copyright notice and this permission notice shall be included in
+                              all copies or substantial portions of the Software.</p>
 
-                                <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-                                IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-                                FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-                                AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-                                LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-                                OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-                                THE SOFTWARE.</p>
+                              <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                              IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                              FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                              AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                              LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                              OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+                              THE SOFTWARE.</p>
                             </div>
                         </div>
                     </div>
@@ -110,10 +110,49 @@
                     <div class="accordion-group">
                         <div class="accordion-heading">
                             <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-license" href="#license3">
-                                HKHelperKit <i class="caret"></i>
+                                CocoaPods <i class="caret"></i>
                             </a>
                         </div>
                         <div id="license3" class="accordion-body collapse">
+                            <div class="accordion-inner">
+                              <p>This project is licensed under the MIT license.</p>
+
+                              <p>Copyright (c) 2011 - 2015 Eloy Durán <eloy.de.enige@gmail.com>,
+                                                        Fabio Pelosin <fabiopelosin@gmail.com>,
+                                                        Samuel Giddins <segiddins@segiddins.me>,
+                                                        Marius Rackwitz <git@mariusrackwitz.de>,
+                                                        Kyle Fuller <kyle@fuller.li>,
+                                                        Boris Bügling <boris@buegling.com>,
+                                                        Orta Therox <orta.therox@gmail.com>, and
+                                                        Olivier Halligon <olivier@halligon.net>.</p>
+
+                              <p>Permission is hereby granted, free of charge, to any person obtaining a copy
+                              of this software and associated documentation files (the "Software"), to deal
+                              in the Software without restriction, including without limitation the rights
+                              to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                              copies of the Software, and to permit persons to whom the Software is
+                              furnished to do so, subject to the following conditions:</p>
+
+                              <p>The above copyright notice and this permission notice shall be included in
+                              all copies or substantial portions of the Software.</p>
+
+                              <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                              IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                              FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                              AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                              LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                              OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+                              THE SOFTWARE.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-group">
+                        <div class="accordion-heading">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-license" href="#license4">
+                                HKHelperKit <i class="caret"></i>
+                            </a>
+                        </div>
+                        <div id="license4" class="accordion-body collapse">
                             <div class="accordion-inner">
                                 <p>Created by Alex Wayne on 2/16/10.</p>
 
@@ -125,11 +164,11 @@
                     </div>
                     <div class="accordion-group">
                         <div class="accordion-heading">
-                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-license" href="#license4">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-license" href="#license5">
                                 MBProgressHUD <i class="caret"></i>
                             </a>
                         </div>
-                        <div id="license4" class="accordion-body collapse">
+                        <div id="license5" class="accordion-body collapse">
                             <div class="accordion-inner">
                                 <p>Copyright (c) 2013 Matej Bukovinski</p>
 
@@ -155,11 +194,11 @@
                     </div>
                     <div class="accordion-group">
                         <div class="accordion-heading">
-                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-license" href="#license5">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-license" href="#license6">
                                 ViewDeck <i class="caret"></i>
                             </a>
                         </div>
-                        <div id="license5" class="accordion-body collapse">
+                        <div id="license6" class="accordion-body collapse">
                             <div class="accordion-inner">
                                 <p>Copyright (C) 2011, Tom Adriaenssen</p>
 
