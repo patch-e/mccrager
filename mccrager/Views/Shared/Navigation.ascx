@@ -20,7 +20,6 @@
                             <li><a href="/LatestChatty">Latest Chatty, iOS</a></li>
                             <li><a href="/PasswirdDeals">Passwird Deals, iOS</a></li>
                             <li><a href="/Deals" target="_blank">Passwird Deals, Web</a></li>
-                            <li><a href="/Vote">Vote '12, iOS</a></li>
                         </ul>
                     </li>
                 </ul>
