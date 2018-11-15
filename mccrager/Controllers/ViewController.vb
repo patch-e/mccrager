@@ -40,6 +40,10 @@ Public Class LatestChattyController
         Return View()
     End Function
 
+    Function Privacy() As ActionResult
+        Return View()
+    End Function
+
 End Class
 
 Public Class ErrorController
