@@ -6,7 +6,7 @@
     <title>mccrager / Latest Chatty / Privacy Policy</title>
     <%Html.RenderPartial("Header")%>
 
-    <meta name="description" content="Privacy policy for the Latest Chatty available on the App Store.">
+    <meta name="description" content="Privacy policy for the Latest Chatty application available on the App Store.">
     <meta name="apple-itunes-app" content="app-id=287316743">
   </head>
 
