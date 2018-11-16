@@ -20,16 +20,14 @@
       </header>
 
       <section>
-        <p>Patrick Crager built the Latest Chatty app as an Open Source app.
-        This SERVICE is provided by Patrick Crager at no cost and is intended for use as is.</p>
+        <p>Latest Chatty is built as an Open Source app.
+        This SERVICE is provided by Patrick Crager at no cost and is intended for use as-is.</p>
         <p>This page is used to inform visitors regarding my policies with the collection, use,
         and disclosure of Personal Information if anyone decided to use my Service.</p>
         <p>If you choose to use my Service, then you agree to the collection and use of information
         in relation to this policy. The Personal Information that I collect is used for providing
         and improving the Service. I will not use or share your information with anyone except as
         described in this Privacy Policy.</p>
-        <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-        which is accessible at Latest Chatty unless otherwise defined in this Privacy Policy.</p>
         
         <h2>Information Collection and Use</h2>
         <p>For a better experience, while using our Service, I may require you to provide us with certain
@@ -38,8 +36,8 @@
         <p>The app does use third party services that may collect information used to identify you.</p>
         <p>Link to privacy policy of third party service providers used by the app</p>
         <ul>
-            <li>Fabric</li>
-            <li>Crashlytics</li>
+            <li><a href="https://fabric.io/privacy" target="_blank">Fabric</a></li>
+            <li><a href="http://try.crashlytics.com/terms/privacy-policy.pdf" target="_blank">Crashlytics</a></li>
         </ul>
 
         <h2>Log Data</h2>
@@ -93,7 +91,7 @@
         necessary actions.</p>
         
         <h2>Changes to This Privacy Policy</h2>
-        <p>I may update our Privacy Policy from time to time. Thus, you are advised to review
+        <p>I may update the Privacy Policy from time to time. Thus, you are advised to review
         this page periodically for any changes. I will notify you of any changes by posting the
         new Privacy Policy on this page. These changes are effective immediately after they are
         posted on this page.</p>
