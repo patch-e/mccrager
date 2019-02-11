@@ -6,7 +6,7 @@
     <title>mccrager / Résumé</title>
     <%Html.RenderPartial("Header")%>
     
-    <meta name="description" content="Patrick Crager's professional résumé is available for viewing in HTML and PDF format.">
+    <meta name="description" content="Patrick Crager's professional résumé is available for viewing in HTML and PDF formats.">
   </head>
 
   <body>
@@ -68,10 +68,10 @@
               <li>Serve as a technical consultant to multiple development teams providing technical advice and design recommendations.</li>
               <li>Contribute at an Enterprise level to best practices with current standards and innovations with new technologies.</li>
               <li>Act as a flexible resource on to Agile Scrum development teams to assist with challenging coding tasks.</li>
-              <li>Handle all estimation of incoming work and high-level design recommendations during grooming of work.</li>
+              <li>Responsible for estimation of all incoming work and high-level design grooming.</li>
               <li>Major contributor to suite of Java-based web applications in support of a successful United Concordia TRICARE government contract implementation.</li>
               <li>Serve as technical lead on United Concordia's native mobile app redesign project.</li>
-              <li>Highly motivated and able to handle single developer projects including but not limited to web services, batch processing, and single-sign on development.</li>
+              <li>Highly motivated and able to operate independently with solo development projects.</li>
               <li>Interact with marketing staff to provide guidance on analytical measurements and SEO best practices.</li>
             </ul>
           </div>
@@ -91,11 +91,11 @@
         <div class="row">
           <div class="span12">
             <ul>
-              <li>Initially served department with extensive knowledge of mobile application and front-end web development.</li>
+              <li>Brought needed knowledge of mobile application and front-end web development to the company.</li>
               <li>Significantly broadened experience and knowledge of Java development while in this role.</li>
               <li>Major contributor to Java-based web application in support of a successful United Concordia active-duty military government contract implementation.</li>
-              <li>Consulting on numerous projects and initiatives at any given time.</li>
-              <li>Mentoring of junior developers to adhere with industry &amp; Enterprise best practices and coding standards.</li>
+              <li>Consulted on numerous projects and initiatives at any given time.</li>
+              <li>Mentored junior developers to adhere with industry Enterprise best practices &amp; coding standards.</li>
             </ul>
           </div>
         </div>
@@ -114,18 +114,19 @@
         <div class="row">
           <div class="span12">
             <ul>
-              <li>Technical lead &amp; developer on a major responsive web design redesign project for United Concordia's 
-              main public-facing website. The website utilizes HTML5, CSS3, the Dojo Toolkit, and Twitter Bootstrap for 
-              front-end development on top of a JavaServer Faces backend. Wrote all of the markup, CSS, and custom Dojo-based 
+              <li>Technical lead &amp; developer on major responsive web design redesign project for United Concordia's 
+              main public-facing website. Utilized HTML5, CSS3, the Dojo Toolkit, and Twitter Bootstrap for 
+              front-end development on top of a Java backend. Wrote all of the markup, CSS, and custom Dojo-based 
               Javascript modules utilized in the application while integrating with an existing content management system.</li>
               <li>Developer &amp; implementation consultant for United Concordia's first mobile Android &amp; iOS app
               using PhoneGap, the Dojo Toolkit, HTML5, and geolocation services integrated with the Google Maps API. 
-              The app allows users to select a profile, search for dentists using location-based services, 
+              Responsible for app features allowing users to select a profile, search for dentists using location-based services, 
               browse oral health information, and securely login to view claims, benefits, deductibles, etc.</li>
               <li>Technology and implementation consultant for a native Android &amp; iOS kid's game app designed 
               for parents to help their children to learn proper brushing techniques and establish long lasting 
-              and healthy oral wellness habits.</li>
-              <li>Provide advice and support for deploying and supporting apps on the iOS App Store and Google Play app 
+              and healthy oral wellness habits. Responsible for handling build and deployment process of the app in-additiot to
+              supporting QA testers. </li>
+              <li>Provided advice and support for deploying and supporting apps on the iOS App Store and Google Play app 
               distribution platforms and also enterprise distribution of apps within United Concordia.</li>
             </ul>
           </div>
@@ -148,17 +149,17 @@
             <ul>
               <li>Developed an agency first mobile web application with ASP.NET MVC using the jQuery Mobile framework and HTML5 geolocation services integrated with the Google Maps API. The application allows users to search for agriculture related companies, farmer’s markets, restaurant inspections, or weights &amp; measures inspections in a radius around the user’s detected location or searched location.</li>
               <li>Responsible for the software development lifecycle of web-based internet and intranet applications.</li>
-              <li>Meet with end users to gather requirements for new projects or upgrades to existing applications while performing business process analysis and optimization.</li>
+              <li>Met with end users to gather requirements for new projects or upgrades to existing applications while performing business process analysis and optimization.</li>
               <li>Lead design and developer for numerous public facing web sites and applications.</li>
               <li>Designed and developed award-winning <a href="http://pafarmland.state.pa.us">pafarmland.state.pa.us</a>, a web-based solution for counties to submit farmland easement purchase recommendations.</li>
               <li>Developed an e-commerce web application to allow competitive exhibitors to register and pay online to compete at the Pennsylvania Farm Show and two other livestock industry shows.</li>
               <li>Developed an internal event registration web application to register guests, assign admission tickets, check in guests, and generate name badges for events at the Pennsylvania Farm Show Complex.</li>
               <li>Designed and developed an internal scheduling web application for Pennsylvania Farm Show Complex management staff.</li>
               <li>Created an internal application to allow the Press Department to easily create and manage photo albums and post press releases to various web sites.</li>
-              <li>Manage all internal and external IIS web servers and domain names.</li>
+              <li>Managed all internal &amp; external IIS web servers and domain names.</li>
               <li>Implemented a SharePoint portal for documentation and bug tracking in addition to a Team Foundation source code repository system.</li>
               <li>Experienced in integrating and leveraging external tools such as Google Maps and Google Analytics, Listrak, e-commerce, search engine optimization, and social media into the design and development processes.</li>
-              <li>Assist and train junior developers.</li>
+              <li>Assisted, trained, and mentored junior developers.</li>
             </ul>
           </div>
         </div>
@@ -172,16 +173,16 @@
           <div class="span6">
             <p><strong>Commonwealth of Pennsylvania<br>
             Office of Inspector General</strong> Harrisburg, PA<br>
-            <strong><em>IT Generalist, Junior Application Developer</em></strong></p>
+            <strong><em>IT Generalist (Junior Application Developer)</em></strong></p>
           </div>
         </div>
         <div class="row">
           <div class="span12">
             <ul>
-              <li>Developed and maintained intranet web applications for the department.</li>
+              <li>Developed and maintained variety intranet web applications supporting various areas of the agency.</li>
               <li>Designed and developed a change control process web application for tracking and assigning of change requests to developers.</li>
               <li>Designed and developed a web application for supervisors to share helpful resources along with a message board that allowed discussion of issues among peers.</li>
-              <li>Performed network administration, managed the department’s firewall, server backup solution, IIS web servers, and SQL Servers.</li>
+              <li>Performed network administration, managed the agency firewall, server backup solution, IIS web servers, and Microsoft SQL servers.</li>
             </ul>
           </div>
         </div>
@@ -220,7 +221,7 @@
             <p><span class="label">11/11</span></p>
           </div>
           <div class="span6">
-            <p>AboutObjects’ iOS 5 Development for the iPhone and iPad</p>
+            <p>AboutObjects’ iOS Development for the iPhone and iPad</p>
           </div>
         </div>
 
@@ -229,7 +230,7 @@
             <p><span class="label">05/11</span></p>
           </div>
           <div class="span6">
-            <p>Developing Web Applications with Microsoft Visual Studio 2010, 10264A</p>
+            <p>Developing Web Applications with Microsoft Visual Studio</p>
           </div>
         </div>
 
@@ -247,7 +248,7 @@
             <p><span class="label">07/07</span></p>
           </div>
           <div class="span6">
-            <p>Programming with the Microsoft .NET Framework, 2415</p>
+            <p>Programming with the Microsoft .NET Framework</p>
           </div>
         </div>
       </section>
