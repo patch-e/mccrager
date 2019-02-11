@@ -30,22 +30,22 @@
         <div class="row">
           <div class="span6">
             <ul>
-              <li><strong>Application and Web Servers:</strong> Apache, Internet Information Services, node.js, SharePoint, SQL Server Reporting Services</li>
-              <li><strong>Frameworks:</strong> AngularJS, Android SDK, ASP.NET &amp; MVC, Cocoa Touch, Dojo Toolkit, JavaServer Faces, jQuery &amp; jQuery Mobile, PhoneGap, RichFaces, Twitter Bootstrap</li>
-              <li><strong>Web Technologies:</strong> AJAX, CSS, Express, Google Maps API, HTML, JavaScript, JSON, Responsive Web Design, REST, XML</li>
-              <li><strong>IDEs:</strong> Eclipse, Oracle SQL Developer, SQL Server Management Studio, Visual Studio, Xcode</li>
+              <li><strong>Application and Web Servers:</strong> Adobe Experience Manager, Apache, WebSphere, IIS, node.js, SharePoint, SQL Server Reporting Services</li>
+              <li><strong>Frameworks &amp; SDKs:</strong> Angular, Android SDK, ASP.NET &amp; MVC, Bootstrap, Dojo Toolkit, iOS SDK, Java EE, JavaServer Faces, jQuery &amp; jQuery Mobile, PhoneGap, RichFaces</li>
+              <li><strong>Web Technologies:</strong> AJAX, CSS, Express, Google Maps API, HTML, JavaScript, JAX-RS, JSON, Responsive Web Design, REST, XML</li>
+              <li><strong>IDEs &amp; Editors:</strong> Android Studio, Atom, Eclipse, IDEA, SQL Developer, SQL Server Management Studio, Sublime Text, TOAD, Visual Studio &amp; VS Code, Xcode</li>
+              <li><strong>Languages:</strong> C#, HTML, Java, JavaScript, Objective-C, Swift, T-SQL, VB.NET</li>
+              <li><strong>Source Control:</strong> CA SCM, git, SVN, Team Foundation Server</li>
             </ul>
           </div>
           <div class="span6">
             <ul>
-              <li><strong>Languages:</strong> C#, HTML, Java, JavaScript, Objective-C, T-SQL, VB.NET</li>
-              <li><strong>Source Control:</strong> CA SCM, git, SVN, Team Foundation Server, Visual SourceSafe</li>
-              <li><strong>Unit Testing:</strong> Dojo Objective Harness, JUnit</li>
-              <li><strong>Development Operations:</strong> Ant, gulp, IBM UrbanCode Build &amp; Deploy</li>
-              <li><strong>Databases:</strong> MongoDB, MySQL, Oracle, SQL Server</li>
-              <li><strong>Design Tools:</strong> Illustrator, InDesign, Photoshop, Quark</li>
-              <li><strong>SEO &amp; Analytics:</strong> Crashlytics, Google Analytics, Google Webmaster Tools, Flurry, TestFlight, Unica NetInsight</li>              
-              <li><strong>Operating Systems:</strong> Android, iOS, OS X, Windows</li>
+              <li><strong>Unit Testing:</strong> Jasmine, JUnit, Karma, Mockito, Powermock</li>
+              <li><strong>Development Operations:</strong> Ant, Gradle, Gulp, UrbanCode</li>
+              <li><strong>Databases:</strong> DB2, MongoDB, MySQL, Oracle, SQL Server</li>
+              <li><strong>Design Tools:</strong> Affinity Designer &amp; Photo, Adobe Illustrator &amp; Photoshop, QuarkXPress</li>
+              <li><strong>SEO &amp; Analytics:</strong> Firebase, Google Analytics, Google Tag Manager, Google Webmaster Tools, TestFlight</li>              
+              <li><strong>Operating Systems:</strong> Android, iOS, Linux, macOS, Windows</li>
             </ul>
           </div>
         </div>
@@ -55,19 +55,47 @@
         <h2>Professional Experience</h2>
         <div class="row">
           <div class="span6 pull-right">
-            <p><span class="label">10/13 - Present</span></p>
+            <p><span class="label">07/16 - Present</span></p>
           </div>
           <div class="span6">
-            <p><strong>HM Health Solutions (Highmark)</strong> Harrisburg, PA<br>
+            <p><strong>HM Health Solutions</strong> Camp Hill &amp; Harrisburg, PA<br>
+            <strong><em>Application Developer Consultant</em></strong></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12">
+            <ul>
+              <li>Serve as a technical consultant to multiple development teams providing technical advice and design recommendations.</li>
+              <li>Contribute at an Enterprise level to best practices with current standards and innovations with new technologies.</li>
+              <li>Act as a flexible resource on to Agile Scrum development teams to assist with challenging coding tasks.</li>
+              <li>Handle all estimation of incoming work and high-level design recommendations during grooming of work.</li>
+              <li>Major contributor to suite of Java-based web applications in support of a successful United Concordia TRICARE government contract implementation.</li>
+              <li>Serve as technical lead on United Concordia's native mobile app redesign project.</li>
+              <li>Highly motivated and able to handle single developer projects including but not limited to web services, batch processing, and single-sign on development.</li>
+              <li>Interact with marketing staff to provide guidance on analytical measurements and SEO best practices.</li>
+            </ul>
+          </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+          <div class="span6 pull-right">
+            <p><span class="label">10/13 - 07/16</span></p>
+          </div>
+          <div class="span6">
+            <p><strong>HM Health Solutions</strong> Camp Hill &amp; Harrisburg, PA<br>
             <strong><em>Senior Application Developer</em></strong></p>
           </div>
         </div>
         <div class="row">
           <div class="span12">
             <ul>
-              <li>Specializing in mobile application and front-end web development.</li>
-              <li>Consulting on various projects and initiatives at any given time.</li>
-              <li>Mentoring junior developers.</li>
+              <li>Initially served department with extensive knowledge of mobile application and front-end web development.</li>
+              <li>Significantly broadened experience and knowledge of Java development while in this role.</li>
+              <li>Major contributor to Java-based web application in support of a successful United Concordia active-duty military government contract implementation.</li>
+              <li>Consulting on numerous projects and initiatives at any given time.</li>
+              <li>Mentoring of junior developers to adhere with industry &amp; Enterprise best practices and coding standards.</li>
             </ul>
           </div>
         </div>
@@ -79,7 +107,7 @@
             <p><span class="label">02/12 - 10/13</span></p>
           </div>
           <div class="span6">
-            <p><strong>Celerity</strong> Harrisburg, PA<br>
+            <p><strong>Celerity</strong> Camp Hill &amp; Harrisburg, PA<br>
             <strong><em>Mobile/Web Development & Technologies Consultant</em></strong></p>
           </div>
         </div>
@@ -173,6 +201,22 @@
         <h2>Certifications &amp; Training</h2>
         <div class="row">
           <div class="span6 pull-right">
+            <p><span class="label">12/18</span></p>
+          </div>
+          <div class="span6">
+            <p>Various Adobe Experience Manager Courses:
+              <ul>
+                <li>Create Web Experiences</li>
+                <li>Develop Websites and Components</li>
+                <li>Extend and Customize</li>
+                <li>Manage and Deliver Digital Assets</li>
+              </ul>
+            </p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="span6 pull-right">
             <p><span class="label">11/11</span></p>
           </div>
           <div class="span6">
@@ -212,11 +256,21 @@
         <h2>Awards</h2>
         <div class="row">
           <div class="span6 pull-right">
+            <p><span class="label">1/16</span></p>
+          </div>
+          <div class="span6">
+            <p>Team Diamond Award Winner<br>
+            <em>HM Health Solutions</em></p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="span6 pull-right">
             <p><span class="label">11/14</span></p>
           </div>
           <div class="span6">
-            <p>The Diamond Award Winner<br>
-            <em>HM Health Solutions (Highmark)</em></p>
+            <p>Diamond Award Winner<br>
+            <em>HM Health Solutions</em></p>
           </div>
         </div>
 
