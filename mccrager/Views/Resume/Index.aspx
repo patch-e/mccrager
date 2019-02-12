@@ -30,16 +30,16 @@
         <div class="row">
           <div class="span6">
             <ul>
-              <li><strong>Application and Web Servers:</strong> Adobe Experience Manager, Apache, WebSphere, IIS, node.js, SharePoint, SQL Server Reporting Services</li>
-              <li><strong>Frameworks &amp; SDKs:</strong> Angular, Android SDK, ASP.NET &amp; MVC, Bootstrap, Dojo Toolkit, iOS SDK, Java EE, JavaServer Faces, jQuery &amp; jQuery Mobile, PhoneGap, RichFaces</li>
-              <li><strong>Web Technologies:</strong> AJAX, CSS, Express, Google Maps API, HTML, JavaScript, JAX-RS, JSON, Responsive Web Design, REST, XML</li>
+              <li><strong>Application &amp; Web Servers:</strong> Adobe Experience Manager, Apache, WebSphere, IIS, node.js, SharePoint, SQL Server Reporting Services</li>
+              <li><strong>Frameworks &amp; SDKs:</strong> Angular, Android SDK, ASP.NET &amp; MVC, Bootstrap, Dojo Toolkit, Express, iOS SDK, Java EE, JavaServer Faces, JAX-RS, jQuery, PhoneGap</li>
+              <li><strong>Web Technologies:</strong> AJAX, CSS, Google Maps API, HTML, JavaScript, JSON, Responsive Web Design, REST, SOAP, XML</li>
               <li><strong>IDEs &amp; Editors:</strong> Android Studio, Atom, Eclipse, IDEA, SQL Developer, SQL Server Management Studio, Sublime Text, TOAD, Visual Studio &amp; VS Code, Xcode</li>
-              <li><strong>Languages:</strong> C#, HTML, Java, JavaScript, Objective-C, Swift, T-SQL, VB.NET</li>
-              <li><strong>Source Control:</strong> CA SCM, git, SVN, Team Foundation Server</li>
             </ul>
           </div>
           <div class="span6">
             <ul>
+              <li><strong>Languages:</strong> C#, HTML, Java, JavaScript, Objective-C, Swift, T-SQL, VB.NET</li>
+              <li><strong>Source Control:</strong> CA SCM, git, SVN, Team Foundation Server, Visual Source Safe</li>              
               <li><strong>Unit Testing:</strong> Jasmine, JUnit, Karma, Mockito, Powermock</li>
               <li><strong>Development Operations:</strong> Ant, Gradle, Gulp, UrbanCode</li>
               <li><strong>Databases:</strong> DB2, MongoDB, MySQL, Oracle, SQL Server</li>
@@ -205,7 +205,7 @@
             <p><span class="label">12/18</span></p>
           </div>
           <div class="span6">
-            <p>Various Adobe Experience Manager Courses:
+            <p>Adobe Experience Manager Courses:
               <ul>
                 <li>Create Web Experiences</li>
                 <li>Develop Websites and Components</li>
