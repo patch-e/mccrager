@@ -15,8 +15,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Apps <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/beer/als/" target="_blank">Beers @ Al's, Web</a></li>
-                            <li><a href="http://taplist.lititzcraftbeerfest.com" target="_blank">Tap List - Lititz Craft Beer Fest, Web</a></li>
+                            <li><a href="/beer/als/">Beers @ Al's, Web</a></li>
                             <li><a href="/LatestChatty">Latest Chatty, iOS</a></li>
                             <li><a href="/PasswirdDeals">Passwird Deals, iOS</a></li>
                         </ul>

@@ -63,7 +63,7 @@
                         <p>Visit the home of the unofficial <a href="http://www.shacknews.com/">shacknews.com</a> iOS app and download it from the App Store! 
                         <strong>Latest Chatty</strong> is a community portal application for members of Shacknews.com, a website dedicated to video game news coverage.
                         The app allows perusal of the website's stories, chatting in the community, and sending messages to other shackers.
-                        <p><a class="btn btn-primary" href="/LatestChatty">View details »</a></p>
+                        <p><a class="btn btn-primary" href="/LatestChatty">View »</a></p>
                     </div>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                         <p>Visit the home of the unofficial <a href="http://passwird.com">passwird.com</a> iOS app and download it from the App Store! 
                         <strong>Passwird Deals</strong> allows you to easily browse deals, search for deals, and share deals via email or to your followers on social media networks.
                         Push notifications let you know that new deals have been posted!</p>
-                        <p><a class="btn btn-primary" href="/PasswirdDeals">View details »</a></p>
+                        <p><a class="btn btn-primary" href="/PasswirdDeals">View »</a></p>
                     </div>
                 </div>
             </div>

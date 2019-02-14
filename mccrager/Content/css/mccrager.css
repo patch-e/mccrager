@@ -41,6 +41,10 @@ body { padding: 60px 0 40px 0; }
 	margin-right: auto; 
 }
 
+.navbar .nav > li a {
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.3);
+}
+
 @media (max-width: 979px) {
 	.navbar .nav > li > .dropdown-menu:before,
 	.navbar .nav > li > .dropdown-menu:after {
