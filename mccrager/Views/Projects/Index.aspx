@@ -18,7 +18,7 @@
         <h1>Projects</h1>
         <div class="row">
           <div class="span6">
-            <p>Here are some things I have worked on at my day jobs and on the side. 
+            <p>Here are some things I have worked on outside of my day job. 
             Find me on <a href="https://github.com/patch-e">github.com</a> where a few of these 
             projects are open sourced.</p>
           </div>
@@ -35,7 +35,7 @@
           <a class="btn btn-mini btn-info" href="/beer/als">View</a>
           <a class="btn btn-mini btn-info" href="https://github.com/patch-e/beers-at-als">Source at GitHub</a>
         </h2>
-        <p><strong>Beers @ Al's</strong> is the result of an idea where Al's <a href="http://alsofhampden.com">website</a> wasn't 
+        <p><strong>Beers @ Al's</strong> is the result of an idea of mine when Al's <a href="http://alsofhampden.com">website</a> wasn't 
         mobile-friendly at the time and I was constantly not wanting to leave my table to see the tap list (which isn't easily readable from every 
         seat in the building). Al's original website left much to be desired when accessing from a mobile device, so I saw an opportunity to make 
         something useful. Today, Al's website is much improved and mobile-friendly! However, my app provides additional features not available 
@@ -45,6 +45,23 @@
         from Al's website, is an Express node.js app utilizing a MongoDB database. 
         The code is open source and available on <a href="https://github.com/patch-e/beers-at-als">github</a>.</p>
       </section>
+
+      <hr>
+
+      <section>
+          <h2>
+            Tap List - Lititz Craft Beer Fest
+            <small>current</small>
+            <a class="btn btn-mini btn-info" href="http://taplist.lititzcraftbeerfest.com">View</a>
+            <a class="btn btn-mini btn-info" href="https://github.com/patch-e/taplist-lititzcraftbeerfest">Source at GitHub</a>
+          </h2>
+          <p><strong>Tap List</strong> is the result of my successful <a href="/beer/als">Beers @ Al's</a> app being used by friends and collegues. 
+          I was asked to provide the official tap list for the <a href="http://www.lititzcraftbeerfest.com">Lititz Craft Beer Fest</a> using my tap
+          list app as a basis. I donated my time and effort to the wonderful festival (and it's great cause) and have done so for 3+ years so far. 
+          </p>
+          <p>The branded app uses the same code base as Beers @ Al's with minor modifications unique to the festival and their
+          static list of beers each year.</p>
+        </section>
 
       <hr>
 

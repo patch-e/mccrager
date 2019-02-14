@@ -10,16 +10,15 @@
             <a class="brand" href="/">mccrager.com</a>
             <div class="nav-collapse collapse">
                 <ul class="nav">
-                    <li><a href="http://blog.mccrager.com">Blog</a></li>
                     <li><a href="/Projects">Projects</a></li>
                     <li><a href="/Resume">Résumé</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Apps <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/beer/als/">Beers @ Al's, Web</a></li>
+                            <li><a href="/beer/als/" target="_blank">Beers @ Al's, Web</a></li>
+                            <li><a href="http://taplist.lititzcraftbeerfest.com" target="_blank">Tap List - Lititz Craft Beer Fest, Web</a></li>
                             <li><a href="/LatestChatty">Latest Chatty, iOS</a></li>
                             <li><a href="/PasswirdDeals">Passwird Deals, iOS</a></li>
-                            <li><a href="/Deals" target="_blank">Passwird Deals, Web</a></li>
                         </ul>
                     </li>
                 </ul>
