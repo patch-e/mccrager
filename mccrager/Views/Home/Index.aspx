@@ -31,13 +31,13 @@
 
         <div class="row">
             <div class="span2">
-                <a href="/beer/als/"><img src="/Content/img/appicon-Beers@Als.png" class="img-rounded appicon center-block" alt="Beers @ Al's app icon"></a>
+                <a href="https://pizzaboy.taplists.com"><img src="/Content/img/appicon-Beers@Als.png" class="img-rounded appicon center-block" alt="Beers @ Al's app icon"></a>
             </div>
             <div class="span10">
                 <h2 class="no-margin-top">Beers @ Al's</h2>
                 <p>Providing a mobile-friendly list and Untappd integration to beers on tap at <a href="http://www.alsofhampden.com/" target="_blank">Al's of Hampden / Pizza Boy Brewing Co.</a>!
                 If you haven't had the pleasure of visiting Al's, make it a priority and be sure to use <strong>Beer's @ Al's</strong> while you are there :)</p>
-                <p><a class="btn btn-primary" href="/beer/als/">Go &raquo;</a></p>
+                <p><a class="btn btn-primary" href="https://pizzaboy.taplists.com">Go &raquo;</a></p>
             </div>
         </div>
 
