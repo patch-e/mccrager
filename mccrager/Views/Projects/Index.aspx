@@ -32,8 +32,8 @@
         <h2>
           Beers @ Al's
           <small>current</small>
-          <a class="btn btn-mini btn-info" href="/beer/als">View</a>
-          <a class="btn btn-mini btn-info" href="https://github.com/patch-e/beers-at-als">Source at GitHub</a>
+          <a class="btn btn-mini btn-info" href="https://pizzaboy.taplists.com">View</a>
+          <a class="btn btn-mini btn-info" href="https://github.com/patch-e/taplist-pizzaboy">Source at GitHub</a>
         </h2>
         <p><strong>Beers @ Al's</strong> is the result of an idea of mine when Al's <a href="http://alsofhampden.com">website</a> wasn't 
         mobile-friendly at the time and I was constantly not wanting to leave my table to see the tap list (which isn't easily readable from every 
@@ -43,7 +43,7 @@
         </p>
         <p>The front-end of it is an AngularJS app utilizing Bootstrap and jQuery. The back-end, that provides live up-to-date data 
         from Al's website, is an Express node.js app utilizing a MongoDB database. 
-        The code is open source and available on <a href="https://github.com/patch-e/beers-at-als">github</a>.</p>
+        The code is open source and available on <a href="https://github.com/patch-e/taplist-pizzaboy">github</a>.</p>
       </section>
 
       <hr>
@@ -55,7 +55,7 @@
             <a class="btn btn-mini btn-info" href="http://taplist.lititzcraftbeerfest.com">View</a>
             <a class="btn btn-mini btn-info" href="https://github.com/patch-e/taplist-lititzcraftbeerfest">Source at GitHub</a>
           </h2>
-          <p><strong>Tap List</strong> is the result of my successful <a href="/beer/als">Beers @ Al's</a> app being used by friends and collegues. 
+          <p><strong>Tap List</strong> is the result of my successful <a href="https://pizzaboy.taplists.com">Beers @ Al's</a> app being used by friends and collegues. 
           I was asked to provide the official tap list for the <a href="http://www.lititzcraftbeerfest.com">Lititz Craft Beer Fest</a> using my tap
           list app as a basis. I donated my time and effort to the wonderful festival (and it's great cause) and have done so for 3+ years so far. 
           </p>
