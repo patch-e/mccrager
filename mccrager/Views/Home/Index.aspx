@@ -45,6 +45,18 @@
 
         <div class="row">
             <div class="span2">
+                <a href="https://taplist.lititzcraftbeerfest.com"><img src="/Content/img/appicon-LCBF.png" class="img-rounded appicon center-block" alt="Lititz Craft Beer Fest app icon"></a>
+            </div>
+            <div class="span10">
+                <h2 class="no-margin-top">Tap List - Lititz Craft Beer Fest</h2>
+                <p>Enables a mobile-friendly list and Untappd integration to beers pouring at the annual <a href="https://lititzcraftbeerfest.com/" target="_blank">Lititz Craft Beer Fest</a>, 
+                which is easily the BEST craft beer festival in the Central PA area! A must attend for any craft beer fan and all proceeds go to a worthy charitable cause.
+                <p><a class="btn btn-primary" href="https://taplist.lititzcraftbeerfest.com">Go &raquo;</a></p>
+            </div>
+        </div>
+
+        <!-- <div class="row">
+            <div class="span2">
                 <a href="/LatestChatty"><img src="/Content/img/appicon-LatestChatty.png" class="img-rounded appicon center-block" alt="Latest Chatty app icon"></a>
             </div>
             <div class="span10">
@@ -69,7 +81,7 @@
                 Push notifications let you know that new deals have been posted!</p>
                 <p><a class="btn btn-primary" href="/PasswirdDeals">View &raquo;</a></p>
             </div>
-        </div>
+        </div> -->
 
         <hr>
 

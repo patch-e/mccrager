@@ -16,8 +16,9 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Apps <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="https://pizzaboy.taplists.com">Beers @ Al's, Web</a></li>
-                            <li><a href="/LatestChatty">Latest Chatty, iOS</a></li>
-                            <li><a href="/PasswirdDeals">Passwird Deals, iOS</a></li>
+                            <li><a href="https://taplist.lititzcraftbeerfest.com">Tap List - Lititz Craft Beer Fest, Web</a></li>
+                            <!-- <li><a href="/LatestChatty">Latest Chatty, iOS</a></li>
+                            <li><a href="/PasswirdDeals">Passwird Deals, iOS</a></li> -->
                         </ul>
                     </li>
                 </ul>

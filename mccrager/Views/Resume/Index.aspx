@@ -41,10 +41,10 @@
               <li><strong>Languages:</strong> C#, HTML, Java, JavaScript, Objective-C, Swift, T-SQL, VB.NET</li>
               <li><strong>Source Control:</strong> CA SCM, git, SVN, Team Foundation Server, Visual Source Safe</li>              
               <li><strong>Unit Testing:</strong> Jasmine, JUnit, Karma, Mockito, Powermock</li>
-              <li><strong>Development Operations:</strong> Ant, Gradle, Gulp, UrbanCode</li>
+              <li><strong>Development Operations:</strong> Ant, GitLab CI/CD, Gradle, Gulp, UrbanCode</li>
               <li><strong>Databases:</strong> DB2, MongoDB, MySQL, Oracle, SQL Server</li>
               <li><strong>Design Tools:</strong> Affinity Designer &amp; Photo, Adobe Illustrator &amp; Photoshop, QuarkXPress</li>
-              <li><strong>SEO &amp; Analytics:</strong> Firebase, Google Analytics, Google Tag Manager, Google Webmaster Tools, TestFlight</li>              
+              <li><strong>SEO &amp; Analytics:</strong> Adobe CJA, Firebase, Google Analytics, Google Tag Manager, Google Webmaster Tools, TestFlight</li>              
               <li><strong>Operating Systems:</strong> Android, iOS, Linux, macOS, Windows</li>
             </ul>
           </div>
@@ -55,10 +55,34 @@
         <h2>Professional Experience</h2>
         <div class="row">
           <div class="span6 pull-right">
-            <p><span class="label">07/16 - Present</span></p>
+            <p><span class="label">05/22 - Present</span></p>
           </div>
           <div class="span6">
-            <p><strong>HM Health Solutions</strong> Camp Hill &amp; Harrisburg, PA<br>
+            <p><strong>enGen</strong> (fka HM Health Solutions) WFH &amp; Camp Hill, PA<br>
+            <strong><em>Principal Software Engineer</em></strong></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span12">
+            <ul>
+              <li>Provide expert technical leadership and consultation across multiple development teams, advising on architecture, design, and technical direction.</li>
+              <li>Drive the adoption of industry best practices and innovative technologies at an enterprise level, ensuring alignment with evolving standards.</li>
+              <li>Lead and mentor Agile Scrum teams, offering hands-on assistance with complex coding challenges and helping to shape solutions.</li>
+              <li>Oversee and contribute to work estimation processes, conducting high-level design reviews and grooming sessions to ensure accurate planning and execution.</li>
+              <li>Demonstrate self-motivation and the ability to deliver complex solo development projects, from concept to completion, with minimal supervision.</li>
+              <li>Champion the development of scalable and maintainable systems, guiding the team toward efficient and high-quality code delivery.</li>
+            </ul>
+          </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+          <div class="span6 pull-right">
+            <p><span class="label">07/16 - 05/22</span></p>
+          </div>
+          <div class="span6">
+            <p><strong>HM Health Solutions</strong> (Highmark subsidiary) Camp Hill &amp; Harrisburg, PA<br>
             <strong><em>Application Developer Consultant</em></strong></p>
           </div>
         </div>
@@ -84,7 +108,7 @@
             <p><span class="label">10/13 - 07/16</span></p>
           </div>
           <div class="span6">
-            <p><strong>HM Health Solutions</strong> Camp Hill &amp; Harrisburg, PA<br>
+            <p><strong>HM Health Solutions</strong> (Highmark subsidiary) Camp Hill &amp; Harrisburg, PA<br>
             <strong><em>Senior Application Developer</em></strong></p>
           </div>
         </div>
@@ -107,7 +131,7 @@
             <p><span class="label">02/12 - 10/13</span></p>
           </div>
           <div class="span6">
-            <p><strong>Celerity</strong> Camp Hill &amp; Harrisburg, PA<br>
+            <p><strong>Celerity</strong> (placement at Highmark) Camp Hill &amp; Harrisburg, PA<br>
             <strong><em>Mobile/Web Development & Technologies Consultant</em></strong></p>
           </div>
         </div>
@@ -202,6 +226,22 @@
         <h2>Certifications &amp; Training</h2>
         <div class="row">
           <div class="span6 pull-right">
+            <p><span class="label">12/24</span></p>
+          </div>
+          <div class="span6">
+            <p>Adobe Customer Journey Analytics Courses:
+              <ul>
+                <li>Get Started with Adobe Experience Platform</li>
+                <li>Configure and Manage Adobe Experience Platform</li>
+                <li>Configure Adobe Customer Journey Analytics</li>
+                <li>Create and Analyze Reports Using Adobe Customer Journey Analytics</li>
+              </ul>
+            </p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="span6 pull-right">
             <p><span class="label">12/18</span></p>
           </div>
           <div class="span6">
@@ -257,7 +297,37 @@
         <h2>Awards</h2>
         <div class="row">
           <div class="span6 pull-right">
-            <p><span class="label">1/16</span></p>
+            <p><span class="label">10/23</span></p>
+          </div>
+          <div class="span6">
+            <p>10 Year Service Recognition<br>
+            <em>enGen</em></p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="span6 pull-right">
+            <p><span class="label">1/19</span></p>
+          </div>
+          <div class="span6">
+            <p>Values Ambassador Award for Innovation<br>
+            <em>HM Health Solutions</em></p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="span6 pull-right">
+            <p><span class="label">10/18</span></p>
+          </div>
+          <div class="span6">
+            <p>5 Year Service Recognition<br>
+            <em>HM Health Solutions</em></p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="span6 pull-right">
+            <p><span class="label">10/17</span></p>
           </div>
           <div class="span6">
             <p>Team Diamond Award Winner<br>
@@ -270,7 +340,7 @@
             <p><span class="label">11/14</span></p>
           </div>
           <div class="span6">
-            <p>Diamond Award Winner<br>
+            <p>Individual Diamond Award Winner<br>
             <em>HM Health Solutions</em></p>
           </div>
         </div>

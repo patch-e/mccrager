@@ -17,14 +17,14 @@
       <header class="page-header">
         <h1>Projects</h1>
         <div class="row">
-          <div class="span6">
+          <div class="span12">
             <p>Here are some things I have worked on outside of my day job. 
             Find me on <a href="https://github.com/patch-e">github.com</a> where a few of these 
             projects are open sourced.</p>
           </div>
-          <div class="span6">
+          <!-- <div class="span6">
             <iframe class="github-badge center-block" src="https://githubbadge.appspot.com/badge/patch-e"></iframe>
-          </div>
+          </div> -->
         </div>
       </header>
 
@@ -52,12 +52,12 @@
           <h2>
             Tap List - Lititz Craft Beer Fest
             <small>current</small>
-            <a class="btn btn-mini btn-info" href="http://taplist.lititzcraftbeerfest.com">View</a>
+            <a class="btn btn-mini btn-info" href="https://taplist.lititzcraftbeerfest.com">View</a>
             <a class="btn btn-mini btn-info" href="https://github.com/patch-e/taplist-lititzcraftbeerfest">Source at GitHub</a>
           </h2>
           <p><strong>Tap List</strong> is the result of my successful <a href="https://pizzaboy.taplists.com">Beers @ Al's</a> app being used by friends and collegues. 
           I was asked to provide the official tap list for the <a href="http://www.lititzcraftbeerfest.com">Lititz Craft Beer Fest</a> using my tap
-          list app as a basis. I donated my time and effort to the wonderful festival (and it's great cause) and have done so for 3+ years so far. 
+          list app as a basis. I donated my time and effort to the wonderful festival (and it's great cause) and have done so for 9+ years so far. 
           </p>
           <p>The branded app uses the same code base as Beers @ Al's with minor modifications unique to the festival and their
           static list of beers each year.</p>
@@ -68,8 +68,8 @@
       <section>
         <h2>
           Passwird Deals
-          <small>current</small>
-          <a class="btn btn-mini btn-primary" href="http://appstore.com/PasswirdDeals">Download for iOS</a>
+          <small>past</small>
+          <!-- <a class="btn btn-mini btn-primary" href="http://appstore.com/PasswirdDeals">Download for iOS</a> -->
           <a class="btn btn-mini btn-info" href="https://github.com/patch-e/Passwird-Deals">Source at GitHub</a>
           <a class="btn btn-mini btn-info" href="/PasswirdDeals">View more details</a>
         </h2>
@@ -111,8 +111,8 @@
       <section>
         <h2>
           Latest Chatty
-          <small>current</small>
-          <a class="btn btn-mini btn-primary" href="http://appstore.com/LatestChatty">Download for iOS</a>
+          <small>past</small>
+          <!-- <a class="btn btn-mini btn-primary" href="http://appstore.com/LatestChatty">Download for iOS</a> -->
           <a class="btn btn-mini btn-info" href="https://github.com/Squeegy/latest-chatty-2">Source at GitHub</a>
         </h2>
         <p><strong>Latest Chatty</strong> is a community portal app for members of 
@@ -150,10 +150,10 @@
       <section>
         <h2>
           Crane Thoroughbreds
-          <small>current</small>
-          <a class="btn btn-mini btn-info" href="http://www.cranethoroughbreds.com">View</a>
+          <small>past</small>
+          <!-- <a class="btn btn-mini btn-info" href="http://www.cranethoroughbreds.com">View</a> -->
         </h2>
-        <p><strong>Crane Thoroughbreds</strong> is an ASP.NET web application that I wrote for a friend's business. 
+        <p><strong>Crane Thoroughbreds</strong> is an ASP.NET web application that I wrote for a business. 
         It's a basic ASP.NET WebForms application that uses URL rewriting and is powered by a custom-built content management system.</p>
         <ul class="thumbnails">
           <li class="span12">
